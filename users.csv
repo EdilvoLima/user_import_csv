@@ -1,2 +1,2 @@
-additionalGroups, firstname ,lastname ,username ,primaryGroup ,phone ,mailPrimaryAddress ,password ,PasswordRecoveryEmail 
-G-DepTI,nara,barros,nara.barros,"cn=Domain Users,cn=groups,dc=pgm,dc=intranet,dc=natal,dc=rn,dc=gov,dc=br",84-99929-8342,nara.barros@natal.rn.gov.br,pgm@123,
+firstname ,lastname ,username ,primaryGroup ,phone ,mailPrimaryAddress ,password ,PasswordRecoveryEmail 
+nara,barros,nara.barros,"cn=Domain Users,cn=groups,cn=G-DepTI,dc=pgm,dc=intranet,dc=natal,dc=rn,dc=gov,dc=br",84-99929-8342,nara.barros@natal.rn.gov.br,pgm@123,
